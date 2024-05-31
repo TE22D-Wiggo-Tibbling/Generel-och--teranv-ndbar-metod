@@ -1,0 +1,14 @@
+g:\Min enhet\prog 1 med micke B!!\Generel och återanvändbar metod\Generel och återanvändbar metod\bin\Debug\net7.0\Generel och återanvändbar metod.exe
+g:\Min enhet\prog 1 med micke B!!\Generel och återanvändbar metod\Generel och återanvändbar metod\bin\Debug\net7.0\Generel och återanvändbar metod.deps.json
+g:\Min enhet\prog 1 med micke B!!\Generel och återanvändbar metod\Generel och återanvändbar metod\bin\Debug\net7.0\Generel och återanvändbar metod.runtimeconfig.json
+g:\Min enhet\prog 1 med micke B!!\Generel och återanvändbar metod\Generel och återanvändbar metod\bin\Debug\net7.0\Generel och återanvändbar metod.dll
+g:\Min enhet\prog 1 med micke B!!\Generel och återanvändbar metod\Generel och återanvändbar metod\bin\Debug\net7.0\Generel och återanvändbar metod.pdb
+g:\Min enhet\prog 1 med micke B!!\Generel och återanvändbar metod\Generel och återanvändbar metod\obj\Debug\net7.0\Generel och återanvändbar metod.GeneratedMSBuildEditorConfig.editorconfig
+g:\Min enhet\prog 1 med micke B!!\Generel och återanvändbar metod\Generel och återanvändbar metod\obj\Debug\net7.0\Generel och återanvändbar metod.AssemblyInfoInputs.cache
+g:\Min enhet\prog 1 med micke B!!\Generel och återanvändbar metod\Generel och återanvändbar metod\obj\Debug\net7.0\Generel och återanvändbar metod.AssemblyInfo.cs
+g:\Min enhet\prog 1 med micke B!!\Generel och återanvändbar metod\Generel och återanvändbar metod\obj\Debug\net7.0\Generel och återanvändbar metod.csproj.CoreCompileInputs.cache
+g:\Min enhet\prog 1 med micke B!!\Generel och återanvändbar metod\Generel och återanvändbar metod\obj\Debug\net7.0\Generel och återanvändbar metod.dll
+g:\Min enhet\prog 1 med micke B!!\Generel och återanvändbar metod\Generel och återanvändbar metod\obj\Debug\net7.0\refint\Generel och återanvändbar metod.dll
+g:\Min enhet\prog 1 med micke B!!\Generel och återanvändbar metod\Generel och återanvändbar metod\obj\Debug\net7.0\Generel och återanvändbar metod.pdb
+g:\Min enhet\prog 1 med micke B!!\Generel och återanvändbar metod\Generel och återanvändbar metod\obj\Debug\net7.0\Generel och återanvändbar metod.genruntimeconfig.cache
+g:\Min enhet\prog 1 med micke B!!\Generel och återanvändbar metod\Generel och återanvändbar metod\obj\Debug\net7.0\ref\Generel och återanvändbar metod.dll
